@@ -6,7 +6,6 @@ Creating neural networks to predict customer reaction to a marketing campaign fo
 This project was developed as part of a three hour hackathon with the focus of experimenting with neural networks  and optimisation methods. MLP Classifiers were created using both the sklearn and keras libraries, and GridSearchCV is utilised for hyperparameter optimisation. The time-pressure involved in the hackathon meant that understanding runtime drivers was particularly important. Although none of the models are perfect, it was an excellent experience and good exersize in thinking critically about what elements are crucial when developing machine learning models. <br>
 <br>
 
-<div class="alert alert-success">
 <b>About Dataset</b>
 
 <u>Context</u>
@@ -47,7 +46,6 @@ The columns included in the dataset are:
 
 The supermarket wants to predict the likelihood of the customer giving a positive response identifying the different factors which affect the customer's answer. You need to analyze the data provided to identify these factors and then build a prediction model to predict the probability of getting positive responses.
     
-</div>
 
 #### Approach Taken:
 
